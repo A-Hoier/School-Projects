@@ -1,8 +1,9 @@
 
 ### Authors: Chris Bæk and Alexander Høier as part of our programming course
 
-# While the code chunks are delegated and written mostly individually, we have done a significant amount of cross-reviewing of each others' code, some of 
-# which we also edited together afterwards. Therefore, the coding cannot be attributed to each person as sharply as the overview suggests.
+## The exam of the programming course - webscrape every article from www.thelocal.com and create some visual insights like usage of tags and wordclouds. Further, create way to get recommendations of new articles, based on the currently selected one. 
+
+# While the code chunks are delegated and written mostly individually, we have done a significant amount of cross-reviewing of each others' code, some of which we also edited together afterwards. Therefore, the coding cannot be attributed to each person as sharply as the overview suggests.
 
 
 Step 0 (Before opening Spyder, assuming using a Windows machine):
